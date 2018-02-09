@@ -1,0 +1,7 @@
+<div ng-controller="loginController">
+	<a ui-sref="changeCredentials" class="login-text" style="font-size: 120%">Chage Credentials</a><br><br>
+	Login<br>
+	<input ng-model="inputUserName" type="text" name="username" placeholder="User Name">
+	<input ng-model="inputPassword" type="Password" name="username" placeholder="Password">
+	<button ng-click="logIn()">{{ButtonStatus}}</button>
+</div>

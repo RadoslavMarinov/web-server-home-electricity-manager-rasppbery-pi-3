@@ -1,0 +1,18 @@
+{
+    "button1": {
+        "name": "1",
+        "switchState": "off"
+    },
+    "button2": {
+        "name": "Sanko",
+        "switchState": "on"
+    },
+    "button3": {
+        "name": "Medi",
+        "switchState": "off"
+    },
+    "button4": {
+        "name": "Keto",
+        "switchState": "on"
+    }
+}
