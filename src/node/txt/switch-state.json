@@ -1,11 +1,11 @@
 {
     "button1": {
-        "name": "1",
-        "switchState": "off"
+        "name": "Riko",
+        "switchState": "on"
     },
     "button2": {
         "name": "Sanko",
-        "switchState": "on"
+        "switchState": "off"
     },
     "button3": {
         "name": "Medi",
